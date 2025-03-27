@@ -15,7 +15,7 @@ A feature-rich React-based To-Do application that allows users to create, view, 
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/todo-app.git
+git clone https://github.com/jaykmarBCET/todos
 cd todo-app
 
 # Install dependencies
